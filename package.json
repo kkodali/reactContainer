@@ -1,0 +1,36 @@
+{
+  "name": "simple_container_example",
+  "version": "1.0.0",
+  "description": "React state based container",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkodali/reactContainer.git"
+  },
+  "keywords": [
+    "React",
+    "container"
+  ],
+  "author": "kkodali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkodali/reactContainer/issues"
+  },
+  "homepage": "https://github.com/kkodali/reactContainer#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "^2.1.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
